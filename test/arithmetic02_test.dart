@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../bin/arithmetic02.dart'
+import '../bin/arithmetic02.dart';
 
 void main() {
   test('division', () {
