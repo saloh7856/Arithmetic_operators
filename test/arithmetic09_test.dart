@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../bin/arithmetic09.dart'
+import '../bin/arithmetic09.dart';
 
 void main() {
   test('remainder', () {
