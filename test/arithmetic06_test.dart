@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../bin/arithmetic06.dart'
+import '../bin/arithmetic06.dart';
 
 void main() {
   test('reverse', () {
