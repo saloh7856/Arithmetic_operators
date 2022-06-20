@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../bin/arithmetic05.dart'
+import '../bin/arithmetic05.dart';
 
 void main() {
   test('sum', () {
