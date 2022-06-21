@@ -4,4 +4,11 @@
 // ‘answer’.
 // return the answer.
 
-void main() {}
+int func(int number){
+    int answer;
+    answer = number%2;
+    return answer;
+}
+void main(){
+    print(func(19));
+}
