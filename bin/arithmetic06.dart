@@ -4,4 +4,10 @@
 // Find the reverse of the number and return to a variable called ‘answer’
 // return answer
 
-void main() {}
+int func(number){
+    int answer=((number%10)*10+number~/10);
+    return answer;
+}
+void main() {
+    print(func(15));
+}
